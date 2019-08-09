@@ -1,3 +1,4 @@
+// C++ program to search all anagrams of a pattern in a text 
 #include<bits/stdc++.h>
 #define MAX 256
 using namespace std;
